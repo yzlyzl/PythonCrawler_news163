@@ -1,2 +1,6 @@
 # PythonCrawler_news163
-简单爬取网易新闻排行榜数据；
+
+项目来源：https://github.com/lining0806/PythonSpiderNotes/tree/master/NewsSpider
+原作者：lining0806
+
+项目内容：简单爬取网易新闻排行榜数据，根据类别，分别将当日热门新闻的标题和链接存储在同一个.txt文件中；
